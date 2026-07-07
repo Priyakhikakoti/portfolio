@@ -2,7 +2,7 @@
 
 A premium, fully responsive, and highly interactive personal portfolio website showcasing my technical skills, internship experience, projects, and achievements.
 
-🎨 **Live Demo:** [https://Priyakhikakoti.github.io/portfolio/](https://Priyakhikakoti.github.io/portfolio/) *(Configure GitHub Pages in your repo settings)*
+🎨 **Live Demo:** [https://Priyakhikakoti.github.io/portfolio/](https://Priyakhikakoti.github.io/portfolio/) 
 
 ---
 
